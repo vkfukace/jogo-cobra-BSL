@@ -1,8 +1,10 @@
 # jogo-cobra-BSL
-## Jogo da cobra feito em BSL no Dr. Racket
-Ciência da Computação - UEM
 
-Feito em 2020
+## Ciência da Computação - UEM (2020)
+
+Curso "Criação de jogos usando programação sistemática"
+
+Jogo da cobra feito em BSL utilizando Dr. Racket
 
 Inicie o jogo com (main JOGO-INICIAL)
 
